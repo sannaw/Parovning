@@ -1,0 +1,196 @@
+body {
+	font-family: sans-serif;
+
+	line-height: 1;
+	vertical-align: baseline;
+	background-color: #C2B8A8;
+}
+
+#content {
+	box-sizing: border-box;
+	vertical-align: baseline;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: -5px;
+
+}
+
+#article {
+	box-sizing: border-box;
+	display: block;
+	vertical-align: baseline;
+	margin-left: 80px;
+	margin: 300px;
+	margin-bottom: 30px;
+	margin-top: 8px;
+	margin-right: 306px;
+
+}
+
+
+
+div {
+	box-sizing: border-box;
+	display: block;
+	vertical-align: baseline;
+	margin-left: 100px;
+	margin: 20px;
+	margin-top: 20px;
+}
+
+header {
+	width: 1210px;
+	height: 120px;
+	margin-left: 50px;
+	margin-right: 100px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	border: 1px solid grey;
+	vertical-align: baseline;
+	background-color: #FFFFFF;
+	padding: 8px;
+}
+
+
+
+aside {
+	background-color: #FFFFFF;
+	float: left;
+	width: 280px;
+	height: 680px;
+	margin-left: 10px;
+	margin-right: 10px;
+	display: block;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 1px solid grey;
+	vertical-align: baseline;
+}
+
+footer {
+	width: 1210px;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left: 30px;
+	padding: 10px;
+	background-color: #FFFFFF;
+	box-sizing: border-box;
+	border: 1px solid grey;
+	display: block;
+	font: inherit;
+	vertical-align: baseline;
+	clear: both;
+}
+
+
+article {
+	background-color: #FFFFFF;
+	float: right;
+	width: 450px;
+	height: 680px;
+	margin-left: 90px;
+	margin-right: 200px;
+	margin: 1px;
+	margin-top: -0px;
+	margin-bottom: 10px;
+	display: block;
+	padding: 8px;
+	box-sizing: border-box;
+	border: 1px solid grey;
+	vertical-align: baseline;
+	overflow: visible;
+
+
+}
+
+#search {
+	width: 20%;
+	margin-left: 900px;
+	margin-bottom: 60px;
+	margin-top: -60px;
+}
+
+#swe {
+	width: 7%;
+	margin-left: 1050px;
+	margin-top: -90px;
+	margin-bottom: 70px;
+}
+
+h1 {
+	width: 50px;
+	height: 16px;
+	margin-bottom: 33px;
+	margin-top: 10px;
+	margin-top: 10px;
+	margin-left: 20px;
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	vertical-align: baseline;
+}
+
+h2 {
+	margin-left: 10px;
+}
+
+h4 {
+	font-size: 17px;
+	margin-left: 10px;
+
+}
+
+li {
+	width: 778px;
+	height: 16px;
+	vertical-align: baseline;
+	margin-left: 28px;
+}
+
+
+
+img {
+	width: 55%;
+	margin-left: 45px;
+	margin-right: 30px;
+
+
+}
+
+p {
+ 	font-size: 14px;
+ 	margin-left: 15px;
+ 	margin-right: 10px;
+}
+
+ul {
+
+}
+
+#kop {
+	width: 20%;
+	margin-left: 30px;
+}
+
+#picture {width:0px; height: 0px; background-color:#ffffff;}
+#picture a.small, #picture a.small:visited { display:block; width:100px; height:100px; text-decoration:none; background:#ffffff; top:0; left:0; border:0;}
+#picture a img {border:0;}
+#picture a.small:hover {text-decoration:none; width: 100px; height: 110px;}
+#picture a .large {display:block; position:absolute; width:0; height:0; border:0; top:0; left:0; margin-top: 55px; margin-left: 60px;}
+#picture a.small:hover .large {display:block; position:absolute; top: 90px; left:350px; width:250px; height:350px; }
+#picture {margin-bottom: 0px;} 
+
+#picture2 {width:0px; height: 0px; background-color:#ffffff;}
+#picture2 a.small, #picture a.small:visited { display:block; width:100px; height:100px; text-decoration:none; background:#ffffff; top:0; left:0; border:0;}
+#picture2 a img {border:0;}
+#picture2 a.small:hover {text-decoration:none;}
+#picture2 a .large {display:block; position:absolute; width:0; height:0; border:0; top:0; left:0; margin-top: 55px; margin-left: 18px;}
+#picture2 a.small:hover .large {display:block; position:absolute; top: 90px; left:350px; width:350px; height:350px; }
+#picture2 {margin-right: 40px; margin-left: 90px; margin-top: 0px; margin-bottom: 0px;} 
+
+#picture3 {width:0px; height: 0px; background-color:#ffffff;}
+#picture3 a.small, #picture a.small:visited { display:block; width:100px; height:100px; text-decoration:none; background:#ffffff; top:0; left:0; border:0;}
+#picture3 a img {border:0;}
+#picture3 a.small:hover {text-decoration:none;}
+#picture3 a .large {display:block; position:absolute; width:0; height:0; border:0; top:0; left:0; margin-top: 55px;}
+#picture3 a.small:hover .large {display:block; position:absolute; top: 90px; left:350px; width:350px; height:350px; } 
+#picture3 {margin-left: 160px; margin-bottom: 100px; margin-top: 0px;}
