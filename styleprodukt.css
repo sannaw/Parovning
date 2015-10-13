@@ -51,6 +51,10 @@ header {
 	padding: 8px;
 }
 
+#header-text {
+	font-size: 16px;
+	margin-left: 40px;
+}
 
 
 aside {
